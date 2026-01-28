@@ -19,20 +19,20 @@
     - Borramos expres por si da fallos
     ![Borrar expres y instalarlo](assets/img/borramosexpress.png)
 - Ya funcionaria y estaria la aplicacion escuchando por el puerto dicho "3000", para acceder tenemos que saber la ip y poner :3000
-![Hello world](assets/img/Helloworld.png)
-![Final Count](assets/img/finalcount.png)
+![Hello](assets/img/Helloworld.png)
+![Final Contar](assets/img/finalcount.png)
 ![Final Count mas grande](assets/img/finalmasgrande.png)
--Vemos el tiempo que tarda, y a la vez abrimos otra pagina para ver como el valor sube 
+- se puede ver que va lento y cuando abrimos otra pagina vuelve a subir 
 ![Tiempo del n mas grande](assets/img/tiempo1.png)
 ![Tiempo de la otra pagina](assets/img/tiempo2.png)
 Como se ejecuta como unico proceso, sale asi.
 
 ## Con cluster
-- Creamos el archivo con nano y añadimos lo siguiente 
+- Se crea el archivo y lo modificamos con los siguientes datos: 
 ![Segunda App](assets/img/segundaapp.png)
 - Ejecutamos la app 
 ![Ejecutamos segunda App](assets/img/Ejecutamos2app.png)
 - Comprobamos otra vez los tiempos.
 ![Lenta](assets/img/lenta.png)
 ![Rapida](assets/img/rapida.png)
-(Esto es debido a que se crean varios procesos workers que comparten el mismo puerto, y las peticiones se distribuyen entre ellos, permitinedo atender a multiples solicitudes evitando bloqueos)
+- Esta diferencia es porque se crean varios procesos workers al mismo puerto, entonces las peticiones se distribuyen entre ellos, permitiendo atender a multiples sulicitudes.
