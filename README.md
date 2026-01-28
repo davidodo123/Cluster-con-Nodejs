@@ -26,7 +26,9 @@
 
 ## Funcionamiento en Web ##
 
+- Escribimos Hello World:
 ![Hello](assets/img/Helloworld.png)
+- Comprobacion Web
 ![Final Contar](assets/img/finalcount.png)
 ![Final Count mas grande](assets/img/finalmasgrande.png)
 - se puede ver que va lento y cuando abrimos otra pagina vuelve a subir 
