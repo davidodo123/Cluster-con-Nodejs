@@ -32,3 +32,7 @@ Como se ejecuta como unico proceso, sale asi.
 ![Segunda App](assets/img/segundaapp.png)
 - Ejecutamos la app 
 ![Ejecutamos segunda App](assets/img/Ejecutamos2app.png)
+- Comprobamos otra vez los tiempos.
+![Lenta](assets/img/lenta.png)
+![Rapida](assets/img/rapida.png)
+(Esto es debido a que se crean varios procesos workers que comparten el mismo puerto, y las peticiones se distribuyen entre ellos, permitinedo atender a multiples solicitudes evitando bloqueos)
