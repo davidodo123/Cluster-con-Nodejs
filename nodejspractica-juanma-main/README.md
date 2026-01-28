@@ -23,3 +23,7 @@
 ![Final Count](assets/img/finalcount.png)
 ![Final Count mas grande](assets/img/finalmasgrande.png)
 -Vemos el tiempo que tarda, y a la vez abrimos otra pagina para ver como el valor sube 
+![Tiempo del n mas grande](assets/img/tiempo1.png)
+![Tiempo de la otra pagina](assets/img/tiempo2.png)
+Como se ejecuta como unico proceso, sale asi.
+
