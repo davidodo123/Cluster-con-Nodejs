@@ -16,6 +16,10 @@
     ![Reinstalar](assets/img/Reinstalar.png)
     - Comprobamos
     ![Comprobamos versiones ](assets/img/comprobamos.png)
-    -Borramos expres por si da fallos
+    - Borramos expres por si da fallos
     ![Borrar expres y instalarlo](assets/img/borramosexpress.png)
 - Ya funcionaria y estaria la aplicacion escuchando por el puerto dicho "3000", para acceder tenemos que saber la ip y poner :3000
+![Hello world](assets/img/Helloworld.png)
+![Final Count](assets/img/finalcount.png)
+![Final Count mas grande](assets/img/finalmasgrande.png)
+-Vemos el tiempo que tarda, y a la vez abrimos otra pagina para ver como el valor sube 
