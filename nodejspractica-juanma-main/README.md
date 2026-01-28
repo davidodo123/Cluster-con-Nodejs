@@ -27,3 +27,8 @@
 ![Tiempo de la otra pagina](assets/img/tiempo2.png)
 Como se ejecuta como unico proceso, sale asi.
 
+## Con cluster
+- Creamos el archivo con nano y añadimos lo siguiente 
+![Segunda App](assets/img/segundaapp.png)
+- Ejecutamos la app 
+![Ejecutamos segunda App](assets/img/Ejecutamos2app.png)
