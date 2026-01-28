@@ -2,8 +2,10 @@
     - Lo primero que vamos ha hacer es intalar nodejs ya que no esta instalado.
 ![Instalar Node.js](assets/img/instalarnodejs.png)
 
-## Sin cluster
-- Creamos una carpeta para el proyecto, luego lo iniciamos con npm init para crear una estructura de carpetas automaticamente y el archivo packega.json.
+## Proyecto Sin cluster ##
+- Hay que crear una carpeta para el proyecto, se inicia con npm init para crear una estructura de carpetas automaticamente.
 ![Creamos carpeta y hacemos un init](assets/img/init.png)
-- Lo siguiente es hacer un npm install expres para instalarlo para el proyecto 
+- Se Hace un npm install expres para instalar el proyecto: 
 ![Descargamos Express](assets/img/express.png)
+- Despues de esto creamos con nano un archivo app.js y añadimos el siguiente contenido y se ejecuta node:
+![Datos de la aplicación](assets/img/aplicacionDatos.png)
